@@ -3,7 +3,6 @@
 🎓 Student at Drexel University  
 💻 Interested in technology, information systems, and AI  
 🛠️ Learning through projects and hands-on experience  
-📍 Philadelphia, PA
 
 ## About Me
 
@@ -11,14 +10,6 @@ I'm a student exploring different areas of technology and building my skills thr
 
 I'm especially interested in how technology can be used to solve real-world problems and improve the way people and organizations work.
 
-## Projects
-
-### 🎮 Neon Dodge
-A simple cyberpunk-style browser game where you survive waves of enemies.
-
-- Built with HTML, CSS, and JavaScript
-- Designed and developed as a personal project
-- Playable directly in the browser
 
 ## Currently Exploring
 
